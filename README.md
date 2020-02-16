@@ -14,4 +14,6 @@ En cualquier plataforma requiere solo tener acceso a internet y desactivar el fi
 # Uso
 ## Ubuntu
 Una vez descargado el programa se le debe conceder permisos para ejecutar como un programa, luego se podrá ejecutar el programa haciendo doble click sobre él, o mediante el comando:
+~~~
     ./Generador_de_horarios
+~~~
