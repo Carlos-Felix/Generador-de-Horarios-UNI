@@ -13,7 +13,12 @@ En cualquier plataforma requiere solo tener acceso a internet y desactivar el fi
 
 # Uso
 ## Ubuntu
-Una vez descargado el programa se le debe conceder permisos para ejecutar como un programa, luego se podrá ejecutar el programa haciendo doble click sobre él, o mediante el comando:
+Una vez descargado el programa se le debe conceder permisos para ejecutar como un programa:
+
+![Imagen3](https://user-images.githubusercontent.com/56741411/74610374-bc38bf80-50c0-11ea-953a-5b4ed7254fb8.png)
+
+Luego se podrá ejecutar el programa haciendo doble click sobre él, o mediante el comando:
 ~~~
     ./Generador_de_horarios
 ~~~
+
