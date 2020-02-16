@@ -11,3 +11,7 @@ Adicional a esto es capaz de mostrar el horario que hayas escogido:
 # Requerimientos
 En cualquier plataforma requiere solo tener acceso a internet y desactivar el firewall para este programa para que pueda conectarse a nuestra base de datos.
 
+# Uso
+## Ubuntu
+Una vez descargado el programa se le debe conceder permisos para ejecutar como un programa, luego se podrá ejecutar el programa haciendo doble click sobre él, o mediante el comando:
+    ./Generador_de_horarios
